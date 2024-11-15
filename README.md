@@ -70,7 +70,7 @@
 
 ### Разработчик:
 
-[Егорский](https://github.com/IgorUshakov05)  
+[Ушаков Игорь](https://github.com/IgorUshakov05)  
 *Разработчик этого проекта.*
 
 
